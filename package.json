@@ -1,0 +1,18 @@
+{
+  "name": "@sudoo/tsconfig",
+  "version": "1.0.0",
+  "description": "TSConfig Library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoDotDog/Sudoo-TSConfig.git"
+  },
+  "keywords": [
+    "sudoo"
+  ],
+  "author": "WMXPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SudoDotDog/Sudoo-TSConfig/issues"
+  },
+  "homepage": "https://github.com/SudoDotDog/Sudoo-TSConfig#readme"
+}
