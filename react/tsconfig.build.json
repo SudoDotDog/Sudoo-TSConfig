@@ -1,7 +1,7 @@
 {
     "compileOnSave": false,
     "compilerOptions": {
-        "outDir": "../../../app",
+        "outDir": "../../../../app",
         "alwaysStrict": true,
         "declaration": true,
         "downlevelIteration": true,
@@ -32,12 +32,12 @@
         "target": "ES2020"
     },
     "exclude": [
-        "../../node_modules",
-        "../../../stories",
-        "../../../story",
-        "../../../test"
+        "../../../../node_modules",
+        "../../../../stories",
+        "../../../../story",
+        "../../../../test"
     ],
     "include": [
-        "../../../src/**/*"
+        "../../../../src/**/*"
     ]
 }
