@@ -1,7 +1,5 @@
 # Builds
 makefile
-typescript
-tsconfig.json
 
 # sources
 src
@@ -14,6 +12,7 @@ test
 
 # Configs
 .vscode
+.github
 .travis.yml
 .gitignore
 .git
