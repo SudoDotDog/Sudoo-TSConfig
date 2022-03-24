@@ -7,6 +7,7 @@
         "experimentalDecorators": true,
         "jsx": "react",
         "lib": [
+            "DOM",
             "ES5",
             "ES2015",
             "ES2016",
