@@ -19,7 +19,7 @@
             "ES2020",
             "ESNext"
         ],
-        "module": "commonjs",
+        "module": "ES2020",
         "moduleResolution": "node",
         "noImplicitAny": true,
         "noImplicitReturns": true,
